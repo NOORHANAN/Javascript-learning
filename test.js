@@ -8,7 +8,9 @@ console.log(score);
 let scorechanged= String(score);
 console.log(typeof scorechanged);
 console.log(scorechanged);
-
+let score_=undefined;
+console.log(typeof score_);
+console.log(score_);
 
 
 
