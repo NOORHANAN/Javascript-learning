@@ -37,6 +37,8 @@ test2(9);
 let userone={
     name:"John",
     age:30,
+    email:"john@example.com",
+    address:"123 Main St",
 };
 // console.log(userone.name);
 
